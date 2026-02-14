@@ -1,7 +1,6 @@
 # Aniket Deshpande
 
-Artificial Intelligence and Robotics Engineer  
-M.Sc. Candidate — Artificial Intelligence & Robotics  
+M.Sc. Student — Artificial Intelligence & Robotics  
 Hof University of Applied Sciences, Germany
 
 Focused on designing scalable machine learning systems, large language model applications, and intelligent robotic solutions for real-world and industrial use.
@@ -9,21 +8,30 @@ Focused on designing scalable machine learning systems, large language model app
 ---
 
 ## Expertise
-
-- Machine Learning and Deep Learning  
+  
 - Large Language Models and Retrieval-Augmented Generation  
 - Computer Vision for industrial applications  
 - Robotics and simulation systems  
 - Edge AI deployment  
-
+- Machine Learning and Deep Learning
 ---
 
 ## Technical Stack
 
-Python · PyTorch · TensorFlow · Scikit-learn  
-Hugging Face · LangChain · FAISS  
-YOLOv5 · OpenCV · ROS · Gazebo · Isaac Sim  
-Linux · Docker · Git  
+**Programming**  
+Python · SQL · Linux
+
+**Machine Learning & Deep Learning**  
+PyTorch · TensorFlow · Scikit-learn
+
+**LLMs & NLP**  
+Hugging Face Transformers · Retrieval-Augmented Generation (RAG) · LangChain · FAISS
+
+**Computer Vision & Robotics**  
+OpenCV · YOLOv5 · ROS · Gazebo · Isaac Sim
+
+**Deployment & Systems**  
+Docker · REST APIs · Model Integration
 
 ---
 
@@ -36,18 +44,3 @@ Linux · Docker · Git
 
 ---
 
-## Education
-
-M.Sc. Artificial Intelligence and Robotics  
-Hof University of Applied Sciences, Germany  
-
-Bachelor of Mechanical Engineering  
-Savitribai Phule Pune University, India  
-
----
-
-## Contact
-
-LinkedIn: www.linkedin.com/in/deshpandeaniket8055  
-Email: deshpandeaniket8055@gmail.com  
-Location: Hof, Germany  
