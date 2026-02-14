@@ -1,4 +1,4 @@
-# Aniket Deshpande
+# About me
 
 M.Sc. Student — Artificial Intelligence & Robotics  
 Hof University of Applied Sciences, Germany
